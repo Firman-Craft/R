@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.swa = 'wa.me/6285748490757'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '085748490757'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '085748490757'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorown = '6285748490757'
+global.namebot = 'Firman ラ'
+global.nameown = 'ᴹᴿ᭄ Bot ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6285748490757', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,9 +96,9 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
+global.wm = 'Firmanラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm3 = 'Firmanラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
@@ -122,7 +122,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.nomorowner = 'wa.me/6285748490757'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
